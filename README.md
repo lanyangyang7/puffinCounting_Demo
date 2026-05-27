@@ -16,7 +16,7 @@ This repository contains a simple demonstration project for counting Puffins usi
 
 ## 0. Requirements
 
-To run this project, please install the necessary dependencies listed in `requirements.txt`. The project relies on PyTorch and Ultralytics YOLO.
+To run this project, please install the necessary dependencies listed in `requirements.txt`. The project relies on PyTorch and [Ultralytics YOLO](https://github.com/ultralytics).
 
 ```bash
 pip install -r requirements.txt
