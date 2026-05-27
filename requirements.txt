@@ -1,0 +1,56 @@
+absl-py @ file:///home/conda/feedstock_root/build_artifacts/absl-py_1751547525079/work
+certifi==2026.5.20
+charset-normalizer==3.4.7
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1733218098505/work
+contourpy @ file:///D:/bld/contourpy_1756544606866/work
+cycler @ file:///home/conda/feedstock_root/build_artifacts/cycler_1733332471406/work
+filelock==3.13.1
+fonttools @ file:///D:/bld/fonttools_1758132430767/work
+fsspec==2024.6.1
+grpcio @ file:///D:/bld/grpc-split_1754597631602/work
+idna==3.16
+importlib_metadata @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_importlib-metadata_1747934053/work
+Jinja2==3.1.4
+joblib==1.5.2
+kiwisolver @ file:///D:/bld/bld/rattler-build_kiwisolver_1756467536/work
+Markdown @ file:///home/conda/feedstock_root/build_artifacts/markdown_1757093412127/work
+MarkupSafe==2.1.5
+matplotlib==3.10.6
+mpmath==1.3.0
+munkres==1.1.4
+networkx==3.3
+numpy==2.1.2
+opencv-python==4.13.0.92
+packaging @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_packaging_1745345660/work
+pandas==2.3.3
+pillow==11.3.0
+polars==1.41.0
+polars-runtime-32==1.41.0
+protobuf @ file:///D:/bld/protobuf_1751668308697/work/bazel-bin/python/dist/protobuf-6.31.1-cp311-abi3-win_amd64.whl#sha256=aa5970c9e9f33608dfc0eb2110a48b0a039212ac38c61f8393637395ba8665e7
+psutil==7.2.2
+pyparsing @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_pyparsing_1758436411/work
+PySide6==6.9.2
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_python-dateutil_1751104122/work
+pytz==2025.2
+PyYAML==6.0.3
+requests==2.34.2
+scikit-learn==1.7.2
+scipy==1.16.2
+shiboken6==6.9.2
+six @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_six_1753199211/work
+sympy==1.13.3
+tensorboard @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_tensorboard_1752825441/work/tensorboard-2.20.0-py3-none-any.whl#sha256=9dc9f978cb84c0723acf9a345d96c184f0293d18f166bb8d59ee098e6cfaaba6
+tensorboard_data_server @ file:///D:/bld/tensorboard-data-server_1728639813727/work/tensorboard_data_server-0.7.0-py3-none-any.whl#sha256=a0ee9efb4274a8eb541b5d39494b020a6654522a4d20e16631e5ea685eac5862
+threadpoolctl==3.6.0
+torch==2.8.0+cu126
+torchvision==0.23.0+cu126
+tornado @ file:///D:/bld/tornado_1756854822157/work
+tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1735661334605/work
+typing_extensions==4.12.2
+tzdata==2025.2
+ultralytics==8.4.53
+ultralytics-thop==2.0.19
+unicodedata2 @ file:///D:/bld/unicodedata2_1756494467153/work
+urllib3==2.7.0
+Werkzeug @ file:///home/conda/feedstock_root/build_artifacts/werkzeug_1733160440960/work
+zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1749421620841/work
