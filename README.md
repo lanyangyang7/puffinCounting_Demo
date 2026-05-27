@@ -9,7 +9,7 @@ This repository contains a simple demonstration project for counting Puffins usi
 - [Requirements](#0-requirements)
 - [Dataset](#1-dataset)
 - [Training](#2-trainpy)
-- [Inference & Evaluation](#3-applypy)
+- [Application](#3-applypy)
 - [Contributor](#contributor)
 
 ---
